@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InvoiceServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-09T04:08:14" hostname="LAPTOP-22472JL6" time="0.309">
+  <properties/>
+  <testcase name="givingLessDistance_ShouldReturnFare" classname="InvoiceServiceTest" time="0.309"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
